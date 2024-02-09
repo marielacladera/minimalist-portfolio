@@ -1,0 +1,293 @@
+{
+  "basics": {
+    "name": "Mariela Cladera",
+    "label": "Full Stack Developer",
+    "image": "/me.jpg",
+    "email": "marielacladera@gmail.com",
+    "phone": "+591 65742435",
+    "url": "https://midu.dev",
+    "summary": "Especialista en desarrollo de aplicaciones web,utilizo principios de codigo limpio y tengo conocimientos de arquitectura Rest. Vivo en Cochabamba, Bolivia. He sido pasante en la físcalia en el área de soporte y desarrollo, tambien auxiliar adhonoren de la carrera de ingenieria  de sistemas e informatica de la UMSS.",
+    "location": {
+      "address": "Avenida Villazon Km. 6 1/2",
+      "postalCode": "",
+      "city": "Cochabamba",
+      "countryCode": "BO",
+      "region": "Bolivia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Mariela Cladera M.",
+        "url": "https://bo.linkedin.com/in/mariela-cladera-m-17a23620a"
+      },
+      {
+        "network": "GitLab",
+        "username": "marielacladera",
+        "url": "https://github.com/marielacladera"
+      },
+      {
+        "network": "GitHub",
+        "username": "marielacladera",
+        "url": "https://github.com/marielacladera"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "FlowingSoft",
+      "position": "Desarrollador Frontend y Backend ",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2022-02-03",
+      "endDate": "2022-07-22",
+      "summary": "Implementación de aplicacion de blog personal, se realizo el diseño y la implementación de un sitio web con los lenguajes de Java para el Backend y Typescript para el frontend, se utilizo Spring Boot y la librería de React.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Fiscalia Departamental de Cochabamba",
+      "position": "Pasantia en el area de sistemas Fiscalia de Cochabamba",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2019-02-08",
+      "endDate": "2019-08-03",
+      "summary": "Implementación de aplicacion de reserva de vacaciones, se realizo el diseño y la implementacion de un sistema web con las tecnologías de PHP para Backend, en la parte Frontend se utilizo Bootstrap y JavaScript.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "Universidad Mayor de San Simón",
+      "position": "Auxiliar Ad-Honorem",
+      "url": "https://twitch.tv/midudev",
+      "startDate": "2018-02-09",
+      "endDate": "2018-07-03",
+      "summary": "Soporte de PCs del centro de computo, se realizo la instalación y configuración de programas a maquinas del centro de computo del Departamento de Sistemas e informática",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+      {
+        "institution": "Universidad Mayor de San Simón",
+        "url": "https://www.umss.edu.bo/",
+        "area": "Ingenieria de Sistemas",
+        "studyType": "Bacheller",
+        "startDate": "2013-08-09",
+        "endDate": "2021-11-19"
+      },
+      {
+        "institution": "Universidad Mayor de San Simón",
+        "url": "http://posgrado.umss.edu.bo//",
+        "area": "Diplomado en educación superior basado en competencias Version 16",
+        "studyType": "Post-grado",
+        "startDate": "2022-07-09",
+        "endDate": "2023-02-19"
+      }
+  ],
+  "certificates": [
+    {
+      "name": "Conferencia de Emprendedurismo y Empresas Exitosas",
+      "date": "2012-11-12",
+      "issuer": "Universidad Privada Boliviana",
+      "url": ""
+    },
+    {
+      "name": "Ensamblaje y mantenimiento de computadoras",
+      "date": "2017-05-25",
+      "issuer": "Universidad Mayor de San Simón",
+      "url": ""
+    },
+    {
+      "name": "Instalación y configuración de redes",
+      "date": "2017-05-25",
+      "issuer": "Universidad Mayor de San Simón",
+      "url": ""
+    },
+    {
+      "name": "PHP (modulo básico)",
+      "date": "2018-06-15",
+      "issuer": "Universidad Mayor de San Simón",
+      "url": ""
+    },
+    {
+      "name": "Laravel",
+      "date": "2018-06-15",
+      "issuer": "Universidad Mayor de San Simón",
+      "url": ""
+    },
+    {
+      "name": "HTML y CSS",
+      "date": "2018-11-15",
+      "issuer": "Universidad Mayor de San Simón",
+      "url": ""
+    },
+    {
+      "name": "Unity 3D",
+      "date": "2019-07-05",
+      "issuer": "Universidad Mayor de San Simón",
+      "url": ""
+    },
+    {
+      "name": "Linux configuraciones",
+      "date": "2019-08-20",
+      "issuer": "Universidad Mayor de San Simón",
+      "url": ""
+    },
+    {
+      "name": "Java Full Stack Developer conformado por Spring Boot 2 y Angular 13",
+      "date": "2022-02-07",
+      "issuer": "Mitocode",
+      "url": "https://uc98bb96732019ede6039b3110a4.dl.dropboxusercontent.com/cd/0/inline2/CM6p4MnixzeS7ZElyphGVI4nr4ycVCu3HNpsLNfpFOQ9SzCOxmqAm-5mGgKKtQTvdV06kCU9BGZs0qku8D2s5Ph-B2Cjb8API7AWsCFOHhHuDN4URBad_pYPomHbAHOdphXLqsxWnRMC_ffLeYyNZ7YbYU3zjpCiG-SU6jxeg3j72FMghzwb-aHPH7jrVmTzGBtNyoF7mKvJh8U3r1pPZcm_nn5G_r_qUaVwyjzXeBJhLhr4ruxkMBMgr_iiv7Svvri08-fMP8uuZ0dm8FiXqqxO8jSrv1uZ_Zn5P2NhxMa66anY6NkU0yAtH-gHz9ElRcIDU4UpvmbfGCKUAW4ppASzcL6q0Oo0ooO0QE1hmPsvNsRwbl7TTrs5sK3hwN7GmRQ/file"
+    },
+    {
+      "name": "Spring Webflux & React.Js",
+      "date": "2022-05-10",
+      "issuer": "Mitocode",
+      "url": "https://uc240e8b3ffc5b64703b797c779e.dl.dropboxusercontent.com/cd/0/inline2/CM5_j4T9tEVa5T5et7EGVdQlLbwMtrb1zsKuCeXe7B2kYo6_qVU5z80PRTa5WzLBUcVoheNARoXDGRSl6JixU1FqNE52dsMM-nQTNxlSi_Zz1FD7rreGv_D_W52Chs7YLTKrVp_b7nu6Ku_QHFE_Y9leycaRLUdvulSfEdTfs0NGIVvsXqbabSQIzqRo-2QzTK4HjFeBQb0428Z-dijWf3mSzGeWAxujeHj7zFxSckPA6zRhonXQOJcg_R6ASwA3k9w8r-rV1Gj-bkxbv8Vho2asmk2bFjzk4eAhHheccb4NBfZaHHVOheAK_9WCCDO156Z5SvO7CHyu0Oi6MVxirA6dElHN1kux7Q7sI3CQhBoNm9WVEs-ZmNjAZN7IMbw1Ncc/file"
+    },
+    {
+      "name": "Universidad CSS - Aprende CSS desde cero hasta experto",
+      "date": "2022-07-21",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-fa39789a-b4b4-422a-9758-2ce7b2c9f706/"
+    },
+    {
+      "name": "Universidad HTML - Aprende desde cero hasta experto",
+      "date": "2022-08-30",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-9abf24bd-e389-4e2e-b975-870e303cf0ff/"
+    },
+    {
+      "name": "Principios SOLID y Clean Code",
+      "date": "2023-05-15",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-9be2c67a-c6e5-4cad-830c-18b666cf61bc/"
+    },
+    {
+      "name": "REDUX en Angular con NGRX: desde las bases hasta la práctica",
+      "date": "2023-05-27",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-762184e6-1439-49ca-bfdc-714f03b4dd37/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "REST"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Medio",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Medio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Medio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Middle"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Lectura",
+      "keywords": [
+        "Ficción",
+        "Suspenso",
+        "Informativo",
+        "Tecnología"
+      ]
+    },
+    {
+      "name": "Jardineria",
+      "keywords": [
+        "Cactus",
+        "Suculentas",
+        "Cuidados",
+        "Ornamentales",
+        "Decoración"
+      ]
+    },
+    {
+      "name": "Programación",
+      "keywords": [
+        "Desarrollo Web",
+        "Inteligencia Artificial"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Todos",
+      "isActive": true,
+      "description": "Aplicacion que registra las tareas",
+      "highlights": [
+        "Registra tareas",
+        "Realizado con NGRX y Angular"
+      ],
+      "url": "https://marielacladera.github.io/todo_app/"
+    }
+  ]
+}
