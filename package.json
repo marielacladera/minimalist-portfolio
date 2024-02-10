@@ -14,5 +14,8 @@
     "astro": "^4.3.3",
     "ninja-keys": "^1.2.2",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
